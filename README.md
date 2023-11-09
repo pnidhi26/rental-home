@@ -1,5 +1,7 @@
 # Real Estate Rental/Purchase WebApp
-![Uploading image.png…]()
+![image](https://github.com/pnidhi26/rental-home/assets/30867614/72ece38b-8deb-4ee8-baeb-6ff82ed1eaba)
+![image](https://github.com/pnidhi26/rental-home/assets/30867614/a00e9592-ec22-4646-8e9e-f70ce7571f46)
+
 
 ## Tech Stack:
 Next.js 14, React.js, Chakra UI, RapidAPI(Bayut)
